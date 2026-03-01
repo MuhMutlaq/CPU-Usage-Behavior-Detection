@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey?style=for-the-badge" />
 </p>
 
-A production-ready machine learning system that monitors servers and computers in real time, detects resource overload anomalies with 100% precision and recall, and visualises live telemetry through an interactive desktop GUI. The same trained model runs on both physical servers and cloud instances through an automatic feature mapping layer.
+A production-ready machine learning system that monitors servers and computers in real time, detects resource overload anomalies with 100% precision and recall, and visualises live telemetry through an interactive desktop GUI. The same trained model runs on both physical servers and cloud instances through an automatic feature mapping layer (Less than this accuracy) "**It's better for the Server and Desktop CPU Behavior**".
 
 ---
 
