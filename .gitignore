@@ -1,5 +1,5 @@
 # Python-generated files
-.DS-STORE
+.DS_STORE
 __pycache__/
 *.py[oc]
 build/
