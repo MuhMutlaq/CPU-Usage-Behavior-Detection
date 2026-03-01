@@ -199,7 +199,7 @@ Python 3.8+
 ### Install Dependencies
 
 ```bash
-pip install xgboost scikit-learn pandas numpy matplotlib joblib psutil scipy
+pip install xgboost scikit-learn pandas numpy matplotlib joblib psutil scipy matplotlib seaborn
 ```
 
 ### Clone the Repository
