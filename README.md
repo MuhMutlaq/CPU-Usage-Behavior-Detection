@@ -216,7 +216,7 @@ cd server-anomaly-detection
 ### Run the Live Monitor
 
 ```bash
-python system_monitor.py
+python app.py
 ```
 
 The GUI will launch automatically. If no trained model is found in `./models/`, the monitor runs in **demo mode** using the rule-based fallback:
@@ -224,21 +224,9 @@ The GUI will launch automatically. If no trained model is found in `./models/`, 
 cpu ≥ 80 AND memory ≥ 85 AND temperature ≥ 75 → ANOMALY
 ```
 
-### Run the Server Validation
+Tests the model against 143 validation cases across 6 categories and saves full results to `validation_results.csv` (Not provided on Github).
 
-```bash
-python validate_model.py
-```
-
-Tests the model against 143 validation cases across 6 categories and saves full results to `validation_results.csv`.
-
-### Run the Cloud Validation
-
-```bash
-python validate_cloud_model.py
-```
-
-Maps cloud dataset columns to server model features and runs the same model, saving results to `cloud_validation_results.csv`.
+Maps cloud dataset columns to server model features and runs the same model, saving results to `cloud_validation_results.csv` (Not Provided on Github).
 
 ### Train the Model from Scratch
 
