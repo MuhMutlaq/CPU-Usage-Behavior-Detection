@@ -82,7 +82,7 @@ cpu_temp_product = cpu × temperature
 
 ## Features
 
-**Real-Time Desktop GUI**
+**Real-Time Desktop GUI (Testing)**
 - Live circular gauges for CPU, memory, and temperature
 - Six rolling sparkline charts (60-second history)
 - Anomaly probability line chart with rolling average overlay
