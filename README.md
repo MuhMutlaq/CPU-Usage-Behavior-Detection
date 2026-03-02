@@ -392,7 +392,7 @@ This model is designed as a **resource behaviour anomaly detector**. For full en
 | Dimensionality Reduction | scikit-learn PCA |
 | GUI | Tkinter + Matplotlib |
 | System Metrics | psutil |
-| Model Serialisation | joblib |
+| Model Serialation | joblib |
 | Language | Python 3.8+ |
 
 ---
