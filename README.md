@@ -205,8 +205,8 @@ pip install xgboost scikit-learn pandas numpy matplotlib joblib psutil scipy mat
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/server-anomaly-detection.git
-cd server-anomaly-detection
+git clone https://github.com/MuhMutlaq/CPU-Usage-Behavior-Detection.git
+cd CPU-Usage-Behavior-Detection
 ```
 
 ---
